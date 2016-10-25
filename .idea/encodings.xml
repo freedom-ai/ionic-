@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/www/areas/account/account_service.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/cart/cart_route.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/cart/cart_service.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/category/category.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/category/category_controllers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/category/category_route.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/category/category_service.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/common/indexDb.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/guidePage/guidePage.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/guidePage/guidePage_controllers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/guidePage/guidePage_route.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/guidePage/guidePage_service.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/home/home.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/home/home_controllers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/home/home_route.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/home/home_service.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/tab/tabs.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/tab/tabs_controllers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/areas/tab/tabs_route.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/css/guidePage/guidePage.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/css/home/home.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/config.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/controllers.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/global.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/route.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/tab-chats.html" charset="UTF-8" />
+  </component>
+</project>
