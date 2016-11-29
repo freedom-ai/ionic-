@@ -67,7 +67,7 @@ angular.module('home.controllers', [])
     // 初始化京东头条滚动条
     function initToutiaoSlide(){
       var toutiaoSwiper = new Swiper('#toutiaoSlider', {
-        direction:'vertical',
+        direction:'vertical', //horizontal水平方向
         autoplay: 2000,
         loop: true
       });
